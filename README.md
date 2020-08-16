@@ -2,4 +2,4 @@
 
 
 
-![Application landing page](https://feizhi255.github.io/code-refactor/images/pic_code_quiz.png)
+![Application landing page](https://feizhi255.github.io/code-quiz/images/pic_code_quiz.png)
