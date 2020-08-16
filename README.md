@@ -7,8 +7,7 @@ JavaScript is still hard. Getting to a working state this time was a little hard
 
 ![Application landing page](https://feizhi255.github.io/quiz-code/images/pic_code_quiz.png)
 
-Link to the live site: [Code refactor](https://feizhi255.github.io/quiz-code/)
-https://feizhi255.github.io/quiz-code/
+Link to the live site: [quiz code](https://feizhi255.github.io/quiz-code/)
 
 -----
 ## Credits
